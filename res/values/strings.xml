@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2K48</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="attention">Do you want to Restart?</string>
+	<string name="Y">Yes</string>
+	<string name="N">No</string>
+	<string name="Over">Game Over</string>
+	<string name="address">jianhenglh@gmail.com</string>
+	<string name="main">By Kimson Chuh</string>
+	<string name="blank"> </string>
+</resources>
